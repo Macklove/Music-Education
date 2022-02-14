@@ -1,10 +1,3 @@
-//
-//  CardView.swift
-//  MoodGraph
-//
-//  Created by Shreyas Vilaschandra Bhike on 12/02/22.
-//
-
 import SwiftUI
 
 struct CardView: View {

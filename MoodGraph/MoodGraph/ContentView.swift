@@ -1,12 +1,3 @@
-//
-//  ContentView.swift
-//  MoodGraph
-//
-//  Created by Shreyas Vilaschandra Bhike on 12/02/22.
-//  MARK: The App Wizard
-//  Instagram :
-//  MARK: @theappwizard2408
-
 import SwiftUI
 
 
